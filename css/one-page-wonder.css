@@ -158,6 +158,9 @@ footer {
 }
 
 @media(max-width:375px) {
+    .headline h1 {
+        font-size: 40px;
+    }
     .featurette-divider {
         margin: 10px 0;
     }
