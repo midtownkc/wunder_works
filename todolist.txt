@@ -1,0 +1,29 @@
+Index Page: (bubble pics are 500x500 px main-bg is 1900x500 px)
+
+Resize Images 1 on index
+Resize Image 2 on index
+Resize Image 3 on index
+Resize background image on index
+
+Portfolio link is broken at the bottom Creative
+
+About: change tile backsplash to normal english
+
+
+Portfolio:
+
+Make less confusing: new categories (4)
+Additions / Decks, Remodels, Custom Woodwork & Cabinetry
+
+1 title image 700x400 px each for each category (4)
+
+remove pagination break 
+
+Get images for Additions / Decks
+Get images for Remodels
+Get images for Custom woodwork
+Get images for cabinetry
+
+Contact us:
+
+resize "more" image to be 300x300 px
