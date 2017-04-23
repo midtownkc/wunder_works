@@ -5,19 +5,19 @@ XResize Image 2 on index
 XResize Image 3 on index
 XResize background image on index
 
-Portfolio link is broken at the bottom Creative
+XPortfolio link is broken at the bottom Creative
 
-About: change tile backsplash to normal english
+XAbout: change tile backsplash to normal english
 
 
 Portfolio:
 
-Make less confusing: new categories (4)
-Additions / Decks, Remodels, Custom Woodwork & Cabinetry
+XMake less confusing: new categories (4)
+XAdditions, Remodels, Custom Woodwork & Cabinetry, Decks
 
 1 title image 700x400 px each for each category (4)
 
-remove pagination break 
+Xremove pagination break 
 
 Get images for Additions / Decks
 Get images for Remodels
@@ -26,4 +26,4 @@ Get images for cabinetry
 
 Contact us:
 
-resize "more" image to be 300x300 px
+Xresize "more" image to be 300x300 px
