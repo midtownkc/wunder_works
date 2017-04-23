@@ -1,9 +1,9 @@
 Index Page: (bubble pics are 500x500 px main-bg is 1900x500 px)
 
-Resize Images 1 on index
-Resize Image 2 on index
-Resize Image 3 on index
-Resize background image on index
+XResize Images 1 on index
+XResize Image 2 on index
+XResize Image 3 on index
+XResize background image on index
 
 Portfolio link is broken at the bottom Creative
 
